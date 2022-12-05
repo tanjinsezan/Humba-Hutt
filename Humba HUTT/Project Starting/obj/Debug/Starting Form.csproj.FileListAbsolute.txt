@@ -1,0 +1,33 @@
+F:\Tamim AIUB\Semester 7\C#\PROJECT\Project Starting\Starting Form\Starting Form\bin\Debug\Starting Form.exe.config
+F:\Tamim AIUB\Semester 7\C#\PROJECT\Project Starting\Starting Form\Starting Form\bin\Debug\Starting Form.exe
+F:\Tamim AIUB\Semester 7\C#\PROJECT\Project Starting\Starting Form\Starting Form\bin\Debug\Starting Form.pdb
+F:\Tamim AIUB\Semester 7\C#\PROJECT\Project Starting\Starting Form\Starting Form\obj\Debug\Starting Form.csprojResolveAssemblyReference.cache
+F:\Tamim AIUB\Semester 7\C#\PROJECT\Project Starting\Starting Form\Starting Form\obj\Debug\Starting_Form.Form1.resources
+F:\Tamim AIUB\Semester 7\C#\PROJECT\Project Starting\Starting Form\Starting Form\obj\Debug\Starting_Form.Properties.Resources.resources
+F:\Tamim AIUB\Semester 7\C#\PROJECT\Project Starting\Starting Form\Starting Form\obj\Debug\Starting Form.csproj.GenerateResource.Cache
+F:\Tamim AIUB\Semester 7\C#\PROJECT\Project Starting\Starting Form\Starting Form\obj\Debug\Starting Form.exe
+F:\Tamim AIUB\Semester 7\C#\PROJECT\Project Starting\Starting Form\Starting Form\obj\Debug\Starting Form.pdb
+F:\Tamim AIUB\Semester 7\C#\PROJECT\Project Starting\Starting Form\Starting Form\obj\Debug\Starting_Form.Log_In.resources
+F:\Tamim AIUB\Semester 7\C#\PROJECT\Project Starting\Starting Form\Starting Form\obj\Debug\Starting_Form.Seller.resources
+F:\Tamim AIUB\Semester 7\C#\PROJECT\Project Starting\Starting Form\Starting Form\obj\Debug\Starting_Form.Sign_In_First.resources
+F:\Tamim AIUB\Semester 7\C#\PROJECT\Project Starting\Starting Form\Starting Form\obj\Debug\Starting_Form.About_Us.resources
+F:\Tamim AIUB\Semester 7\C#\PROJECT\Project Starting\Starting Form\Starting Form\obj\Debug\Starting_Form.About_Us_Seller.resources
+F:\Tamim AIUB\Semester 7\C#\PROJECT\Project Starting\Starting Form\Starting Form\obj\Debug\Starting_Form._1st_Form.resources
+F:\Tamim AIUB\Semester 7\C#\PROJECT\Project Starting\Starting Form\Starting Form\obj\Debug\Starting_Form.FAQ_Buyer.resources
+F:\Tamim AIUB\Semester 7\C#\PROJECT\Project Starting\Starting Form\Starting Form\obj\Debug\Starting_Form.FAQ_Seller.resources
+F:\Tamim AIUB\Semester 7\C#\PROJECT\Project Starting\Starting Form\Starting Form\obj\Debug\Starting_Form.Cart_Buyer.resources
+F:\Tamim AIUB\Semester 7\C#\PROJECT\Project Starting\Starting Form\Starting Form\obj\Debug\Starting_Form.Cows_List.resources
+F:\Tamim AIUB\Semester 7\C#\PROJECT\Project Starting\Starting Form\Starting Form\obj\Debug\Starting_Form.Goats_List.resources
+F:\Tamim AIUB\Semester 7\C#\PROJECT\Project Starting\Starting Form\Starting Form\obj\Debug\Starting_Form.My_Product_Seller.resources
+F:\Tamim AIUB\Semester 7\C#\PROJECT\Project Starting\Starting Form\Starting Form\obj\Debug\Starting_Form.Bookings_Seller.resources
+F:\Tamim AIUB\Semester 7\C#\PROJECT\Project Starting\Starting Form\Starting Form\obj\Debug\Starting_Form.Admin_Home.resources
+F:\Tamim AIUB\Semester 7\C#\PROJECT\Project Starting\Starting Form\Starting Form\obj\Debug\Starting_Form.Admin_about_Us.resources
+F:\Tamim AIUB\Semester 7\C#\PROJECT\Project Starting\Starting Form\Starting Form\obj\Debug\Starting_Form.Admin_FAQ.resources
+F:\Tamim AIUB\Semester 7\C#\PROJECT\Project Starting\Starting Form\Starting Form\obj\Debug\Starting_Form.Admin_Bookings.resources
+F:\Tamim AIUB\Semester 7\C#\PROJECT\Project Starting\Starting Form\Starting Form\obj\Debug\Starting_Form.Admin_List.resources
+F:\Tamim AIUB\Semester 7\C#\PROJECT\Project Starting\Starting Form\Starting Form\obj\Debug\Starting_Form.Buyer_List.resources
+F:\Tamim AIUB\Semester 7\C#\PROJECT\Project Starting\Starting Form\Starting Form\obj\Debug\Starting_Form.Seller_List.resources
+F:\Tamim AIUB\Semester 7\C#\PROJECT\Project Starting\Starting Form\Starting Form\obj\Debug\Starting_Form.Admin_Cow_List.resources
+F:\Tamim AIUB\Semester 7\C#\PROJECT\Project Starting\Starting Form\Starting Form\obj\Debug\Starting_Form.Admin_Goat_List.resources
+F:\Tamim AIUB\Semester 7\C#\PROJECT\Project Starting\Starting Form\Starting Form\obj\Debug\Starting_Form.Transactions.resources
+F:\Tamim AIUB\Semester 7\C#\PROJECT\Project Starting\Starting Form\Starting Form\obj\Debug\Starting_Form.Logo.resources

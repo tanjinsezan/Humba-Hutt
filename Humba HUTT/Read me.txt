@@ -1,0 +1,52 @@
+HAMBA HATT !!
+__________________________________________
+It is one kind of Managemet system and it helps people to buy or sale animals.
+We all know this is a time of pandamic and in this time this sestem could be 
+very effective and helpful for people.
+
+##Tool Used
+------------------------------------------
+We have used some tools and with the help of them we have developed this system.
+The tools are...
+1.Microsoft Visual Studio 2013 Community Edition.
+2.SQL Server management system 2014.
+3.Microsoft Visual Studio 2013 Installer Projects.(For Setup)
+
+##How SQL Works
+------------------------------------------
+Open the Sql query txt file.Copy all the query
+Open a SQL 
+Then 1st Execute the "CREATE DATABASE HAMBA_HATT;" Line
+Then select Hamba hatt option at drop box beside Execute Button.
+Then EXECUTE all the table create query one by one.
+
+##Connect to Visual studio
+------------------------------------------
+1.Copy the Server name from SQL
+2.Go to Visual Studio Project file.
+3.From Server Explorer select Data connection Then select Add then Paste Server name and press ok.
+Database will be connected.
+4.From Database Property Select and copy Connection String and paste to App.cofig file.
+Also write the providerName ="System.Data.SqlClient".
+After that Sql and Project file will be connected.
+
+##How it Works
+-------------------------------------------
+After opening a Log in page will be visible. From here log in process could be done.
+
+If You are new then you need to Register 1st. For that Go to "Registration Starts here" at the lower part
+of Login page.
+
+At the Registration Page after giving all the informations you can Register as a seller or a buyer.
+After that you can Login and work as a seller or a buyer.
+
+#Login As an Admin 
+-------------------------------------------
+Name: Tamim
+Pass:tamim
+
+
+
+
+
+
